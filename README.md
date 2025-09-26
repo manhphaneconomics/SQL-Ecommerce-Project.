@@ -4,7 +4,7 @@
 
 
 ## 1. Project Overview
--Project utilizing the BigQuery Public Dataset: Google Analytics Sample (ga_sessions_2017), a real-world dataset simulating user behavior on an e-commerce website.
+- Project utilizing the BigQuery Public Dataset: Google Analytics Sample (ga_sessions_2017), a real-world dataset simulating user behavior on an e-commerce website.
 - Developed a series of SQL queries to analyze customer behavior, marketing channel performance, and sales effectiveness.
 ## 2. Analysis
 
