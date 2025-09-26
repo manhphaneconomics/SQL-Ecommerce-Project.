@@ -19,3 +19,7 @@ FROM `bigquery-public-data.google_analytics_sample.ga_sessions_2017*`
 WHERE _table_suffix BETWEEN '0101' AND '0331'
 GROUP BY month
 ORDER BY month;
+```
+**Result:**
+
+![Query Result Table](1.png)
